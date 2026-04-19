@@ -17,6 +17,15 @@ The skill is grounded in a real deploy — every gotcha listed actually happened
 
 Drop `SKILL.md` into your skills directory (`~/.hermes/skills/` for Hermes, or wherever your agent harness loads skills from).
 
+## Author
+
+Built by **cobi bean** while wiring up a personal job-hunting Hermes agent.
+
+- GitHub: [@cobibean](https://github.com/cobibean)
+- Twitter/X: [@cobi_bean](https://twitter.com/cobi_bean)
+
+If this skill saves you a debugging session, a follow or a star is appreciated.
+
 ## License
 
 MIT
